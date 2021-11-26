@@ -1,4 +1,4 @@
-module github.com/hooliganlin/versioning/conventional-wisdom
+module github.com/hooliganlin/versioning/semversioner
 
 go 1.17
 

@@ -1,7 +1,7 @@
 package conventional
 
 import (
-	"github.com/hooliganlin/versioning/conventional-wisdom/git"
+	"github.com/hooliganlin/versioning/semversioner/git"
 	"github.com/stretchr/testify/assert"
 	"testing"
 	"time"

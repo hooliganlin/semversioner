@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 	"github.com/Masterminds/semver"
-	"github.com/hooliganlin/versioning/conventional-wisdom/conventional"
-	"github.com/hooliganlin/versioning/conventional-wisdom/git"
+	"github.com/hooliganlin/versioning/semversioner/conventional"
+	"github.com/hooliganlin/versioning/semversioner/git"
 	"log"
 )
 

@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/hooliganlin/versioning/conventional-wisdom/git"
+	"github.com/hooliganlin/versioning/semversioner/git"
 	"github.com/jessevdk/go-flags"
 	"log"
 	"os"

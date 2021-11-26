@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"github.com/Masterminds/semver"
-	"github.com/hooliganlin/versioning/conventional-wisdom/git"
+	"github.com/hooliganlin/versioning/semversioner/git"
 	"github.com/stretchr/testify/suite"
 	"os"
 	"os/exec"

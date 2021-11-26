@@ -2,7 +2,7 @@ package conventional
 
 import (
 	"github.com/Masterminds/semver"
-	"github.com/hooliganlin/versioning/conventional-wisdom/git"
+	"github.com/hooliganlin/versioning/semversioner/git"
 )
 const initialTag = "v0.0.0"
 // DetermineNextVersion leverages the conventional commit style logs to determine
